@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+
+tr {
+    background-color: rgb(241, 233, 233);
+}
+
+.child {
+    background-color: rgb(255, 255, 255);
+}
+
